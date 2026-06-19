@@ -22,8 +22,6 @@ Jenkins Pipeline
 Output
 Application successfully deployed in browser
 
-Browser URL: http://localhost:8081
-
 Output: Hello Devops Engineer! Jenkins CI/CD pipeine working successfuly
 
 Result
